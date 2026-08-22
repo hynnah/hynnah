@@ -1,29 +1,46 @@
 <div align="center">
 <img width=100% height=auto alt="banner (1)" src="https://github.com/user-attachments/assets/80f797fe-4836-408e-a229-2991f8014aa6" />
 <br/>
+
 ## hynnah
+
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
 <a href="https://github.com/hynnah"><img src="https://img.shields.io/badge/GITHUB-0B0B14?style=for-the-badge&logo=github&logoColor=F2F0E9" /></a>
 <a href="https://www.linkedin.com/in/hynnahzenitram"><img src="https://img.shields.io/badge/LINKEDIN-0B0B14?style=for-the-badge&logo=linkedin&logoColor=F2F0E9" /></a>
+
 </div>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
+
 ### ✦ about me
+
 <table>
 <tr>
 <td valign="middle">
+
 Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos currently looking for an OJT opportunity.
+
 I have experience building both web and mobile applications, working across the front end and backend with databases and APIs. I especially enjoy front-end development and UI design, where I can play around with layouts, interactions, and the little details that make a website feel right.
+
 What am I currently up to? Well, I'm working on my portfolio!
+
 Outside of coding, I enjoy graphic design, so you'll probably catch me designing in Canva, sketching logos, or listening to music.
+
 Fun fact about me: I'm interested in astronomy. As you can probably tell...
+
 </td>
 <td width="38%">
+
 <img width="736" height="736" alt="_" src="https://github.com/user-attachments/assets/f558d61b-267c-4765-bd8a-56289d85b898" />
+
 </td>
 </tr>
 </table>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
-### ✦ stack and tools
+
+### ✦ stack & tools
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/HTML-14142B?style=for-the-badge&logo=html5&logoColor=9B95C9" />
@@ -45,7 +62,9 @@ Fun fact about me: I'm interested in astronomy. As you can probably tell...
 <img src="https://img.shields.io/badge/Gemini-14142B?style=for-the-badge&logo=googlegemini&logoColor=C9A76A" />
 
 </div>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
+
 <div align="center">
 <sub>✦ thanks for stopping by — say hi, I'm always up for talking about a cursed database schema ✦</sub>
 </div>
