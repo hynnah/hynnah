@@ -1,0 +1,119 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0B14"/>
+      <stop offset="55%" stop-color="#14142B"/>
+      <stop offset="100%" stop-color="#0B0B14"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#C9A76A" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#C9A76A" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="key" width="40" height="14" patternUnits="userSpaceOnUse">
+      <path d="M0,12 L0,2 L10,2 L10,7 L22,7 L22,2 L32,2 L32,12 L20,12 L20,9 L4,9 L4,12 Z"
+            fill="none" stroke="#C9A76A" stroke-width="1.4" stroke-opacity="0.55"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#sky)"/>
+
+  <!-- scattered background stars -->
+  <g fill="#F2F0E9">
+    <circle cx="70" cy="40" r="1.4" opacity="0.7"/>
+    <circle cx="140" cy="75" r="1" opacity="0.5"/>
+    <circle cx="230" cy="35" r="1.6" opacity="0.8"/>
+    <circle cx="310" cy="60" r="1" opacity="0.4"/>
+    <circle cx="390" cy="30" r="1.2" opacity="0.6"/>
+    <circle cx="460" cy="55" r="1" opacity="0.5"/>
+    <circle cx="540" cy="25" r="1.4" opacity="0.7"/>
+    <circle cx="60" cy="230" r="1.2" opacity="0.5"/>
+    <circle cx="150" cy="255" r="1" opacity="0.4"/>
+    <circle cx="260" cy="225" r="1.4" opacity="0.6"/>
+    <circle cx="340" cy="250" r="1" opacity="0.4"/>
+    <circle cx="420" cy="215" r="1.2" opacity="0.5"/>
+    <circle cx="500" cy="240" r="1" opacity="0.4"/>
+    <circle cx="750" cy="35" r="1.2" opacity="0.5"/>
+    <circle cx="820" cy="60" r="1" opacity="0.4"/>
+    <circle cx="1160" cy="45" r="1.4" opacity="0.6"/>
+    <circle cx="1180" cy="120" r="1" opacity="0.4"/>
+    <circle cx="1150" cy="230" r="1.2" opacity="0.5"/>
+    <circle cx="60" cy="150" r="1" opacity="0.35"/>
+    <circle cx="1170" cy="190" r="1.1" opacity="0.45"/>
+  </g>
+
+  <!-- crescent moon, upper right of the text block -->
+  <g transform="translate(645,58)">
+    <circle cx="0" cy="0" r="34" fill="url(#moonGlow)"/>
+    <path d="M12,-16 A18,18 0 1 0 12,16 A14,14 0 1 1 12,-16 Z" fill="#EDE3CC" opacity="0.9"/>
+  </g>
+
+  <!-- ===== name lockup ===== -->
+  <text x="60" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="12"
+        letter-spacing="6" fill="#C9A76A">UNDER A BORROWED SKY</text>
+
+  <text x="58" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="46"
+        font-weight="700" letter-spacing="3" fill="#F2F0E9">HANNAH MARTINEZ</text>
+
+  <text x="60" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="15"
+        letter-spacing="2" fill="#9B95C9">BSIT &#183; 3rd Year &#183; Univ. of San Carlos &#183; Cebu, PH</text>
+
+  <text x="60" y="222" font-family="Verdana, sans-serif" font-size="12.5" font-style="italic"
+        fill="#8B879E">building quiet, precise things &#8212; one component, one query, one pixel at a time.</text>
+
+  <!-- ===== cat constellation ===== -->
+  <g stroke="#9B95C9" stroke-width="1.1" stroke-opacity="0.85" fill="none">
+    <!-- ears -->
+    <line x1="900" y1="88" x2="930" y2="122"/>
+    <line x1="962" y1="80" x2="930" y2="122"/>
+    <!-- head to chin -->
+    <line x1="930" y1="122" x2="915" y2="152"/>
+    <!-- head to back -->
+    <line x1="930" y1="122" x2="962" y2="112"/>
+    <line x1="962" y1="112" x2="1000" y2="102"/>
+    <line x1="1000" y1="102" x2="1042" y2="122"/>
+    <line x1="1042" y1="122" x2="1080" y2="150"/>
+    <!-- tail curl -->
+    <line x1="1080" y1="150" x2="1092" y2="172"/>
+    <line x1="1092" y1="172" x2="1122" y2="152"/>
+    <line x1="1122" y1="152" x2="1130" y2="114"/>
+    <line x1="1130" y1="114" x2="1112" y2="92"/>
+    <!-- chest / front leg -->
+    <line x1="915" y1="152" x2="900" y2="172"/>
+    <line x1="900" y1="172" x2="904" y2="232"/>
+    <line x1="904" y1="232" x2="904" y2="252"/>
+    <!-- belly to haunch -->
+    <line x1="900" y1="172" x2="960" y2="222"/>
+    <line x1="960" y1="222" x2="1080" y2="150"/>
+    <!-- back leg -->
+    <line x1="1048" y1="150" x2="1050" y2="230"/>
+    <line x1="1050" y1="230" x2="1054" y2="250"/>
+  </g>
+
+  <!-- constellation stars (vertices) -->
+  <g fill="#F2F0E9">
+    <circle cx="900" cy="88" r="1.8"/>
+    <circle cx="962" cy="80" r="1.6"/>
+    <circle cx="930" cy="122" r="2.3" fill="#C9A76A"/>
+    <circle cx="915" cy="152" r="1.6"/>
+    <circle cx="962" cy="112" r="1.5"/>
+    <circle cx="1000" cy="102" r="1.7"/>
+    <circle cx="1042" cy="122" r="1.5"/>
+    <circle cx="1080" cy="150" r="1.8"/>
+    <circle cx="1092" cy="172" r="1.5"/>
+    <circle cx="1122" cy="152" r="1.5"/>
+    <circle cx="1130" cy="114" r="1.6"/>
+    <circle cx="1112" cy="92" r="1.4"/>
+    <circle cx="900" cy="172" r="1.7"/>
+    <circle cx="904" cy="232" r="1.4"/>
+    <circle cx="904" cy="252" r="1.4"/>
+    <circle cx="960" cy="222" r="1.5"/>
+    <circle cx="1048" cy="150" r="1.4"/>
+    <circle cx="1050" cy="230" r="1.4"/>
+    <circle cx="1054" cy="250" r="1.4"/>
+  </g>
+  <!-- the cat's eye, a brighter star -->
+  <circle cx="923" cy="132" r="2" fill="#C9A76A"/>
+
+  <!-- greek key border, full width, bottom -->
+  <rect x="0" y="278" width="1200" height="14" fill="url(#key)"/>
+</svg>
