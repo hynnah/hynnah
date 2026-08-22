@@ -1,7 +1,7 @@
 <div align="center">
-<img width="4269" height="1772" alt="banner" src="https://github.com/user-attachments/assets/bcb0fa84-aac7-4e0a-a2e8-d0363a62fe1d" />
+<img width=100% height=auto alt="banner (1)" src="https://github.com/user-attachments/assets/80f797fe-4836-408e-a229-2991f8014aa6" />
 <br/>
-**hynnah**
+##hynnah 
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
 <a href="https://github.com/hynnah"><img src="https://img.shields.io/badge/GITHUB-0B0B14?style=for-the-badge&logo=github&logoColor=F2F0E9" /></a>
 <a href="https://www.linkedin.com/in/hynnahzenitram"><img src="https://img.shields.io/badge/LINKEDIN-0B0B14?style=for-the-badge&logo=linkedin&logoColor=F2F0E9" /></a>
@@ -13,14 +13,22 @@
 
 <table>
 <tr>
-<td width="38%">
-<img src="./assets/about_portrait.svg" width="100%" alt=""/>
-</td>
 <td valign="middle">
 
-Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos, currently hunting for an **OJT placement**. I can build the backend side of things just fine — schemas, APIs, the whole plumbing — but if you give me a choice, I'll always gravitate toward the front end, tweaking spacing and colors until a page actually feels like something instead of just working. Right now I'm neck-deep in a capstone project (a health-screening kiosk system for our campus clinic), and outside of that I'm usually messing around in Canva or sketching logos for fun. Based in Cebu, always down to talk about a weird bug or a good color palette.
+Hi! I’m **Hannah**, a third-year BSIT student at the University of San Carlos currently looking for an OJT opportunity.
 
+I have experience building both web and mobile applications, working across the front end and backend with databases and APIs. I especially enjoy front-end development and UI design, where I can play around with layouts, interactions, and the little details that make a website feel right.
+
+What am I currently up to? Well, I’m working on my portfolio!
+
+Outside of coding, I enjoy graphic design, so you’ll probably catch me designing in Canva, sketching logos, or listening to music.
+
+Fun fact about me: I’m interested in astronomy. As you can probably tell...
 </td>
+<td width="38%">
+<img width="736" height="736" alt="_" src="https://github.com/user-attachments/assets/f558d61b-267c-4765-bd8a-56289d85b898" />
+</td>
+
 </tr>
 </table>
 
@@ -51,66 +59,6 @@ Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos, c
 <img src="https://img.shields.io/badge/Gemini-14142B?style=for-the-badge&logo=googlegemini&logoColor=C9A76A" />
 
 </div>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-### ✦ things I've built
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🩺 CAREiosk**
-<br/><sub>capstone · IoT health-screening kiosk · in progress</sub>
-
-Tri-platform system (kiosk + clinic dashboard + patient portal) for a campus clinic. Authored the SRS and use-case diagram, contributed to the ERD and system architecture, and built the interface prototype for all three platforms ahead of proposal defense.
-
-</td>
-<td width="50%" valign="top">
-
-**🍜 Craveh**
-<br/><sub>full-stack food delivery platform</sub>
-
-Menu browsing, cart, checkout, and order tracking for a food ordering platform, built with a teammate through iterative testing and bug-fixing. HTML, CSS, JavaScript, PHP, MySQL.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🚐 Shutool**
-<br/><sub>mobile shuttle request system</sub>
-
-Extended a desktop prototype into a full mobile app for requesting, tracking, and prioritizing campus shuttles. Owned Rider, Driver, and Administrator workflows. C#, .NET MAUI, Supabase.
-
-</td>
-<td width="50%" valign="top">
-
-**🗓️ Classync**
-<br/><sub>collaborative calendar & task manager</sub>
-
-Solo-built classroom web app combining shared calendars, task delegation, and personal to-dos with role-based access for Admins, Organizers, and Students. HTML, CSS, JavaScript, PHP, MySQL.
-
-</td>
-</tr>
-</table>
-
-<sub>repo links intentionally left out here — pin whichever of these are public on your profile above, or replace this table with `[CAREiosk](your-repo-url)` style links once the repos are ready to show.</sub>
-
-<img src="./assets/divider.svg" width="100%" alt=""/>
-
-### ✦ the sky (github stats)
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hynnah&show_icons=true&hide_border=true&bg_color=0B0B14&title_color=C9A76A&text_color=F2F0E9&icon_color=9B95C9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hynnah&layout=compact&hide_border=true&bg_color=0B0B14&title_color=C9A76A&text_color=F2F0E9" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=hynnah&hide_border=true&background=0B0B14&ring=C9A76A&fire=C9A76A&currStreakLabel=F2F0E9&sideNums=F2F0E9&currStreakNum=F2F0E9&sideLabels=9B95C9&dates=8B879E" />
-</div>
-
-<sub>if these cards show a broken/error image, it's the shared demo server being rate-limited, not this file — see the note below on deploying your own copy.</sub>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
