@@ -13,8 +13,7 @@
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 ### ✦ about me
-<img align="right" width="340" alt="Ascii flower" src="https://github.com/user-attachments/assets/f47abe62-43c7-4a31-94bd-7ca88fef330a" />
-
+<img align="right" width="250" alt="Ascii_flower" src="https://github.com/user-attachments/assets/f510eede-41f9-4a73-b55a-dc976117493f" />
 
 Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos currently looking for an OJT opportunity.
 
