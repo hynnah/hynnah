@@ -31,7 +31,8 @@ Fun fact about me: I'm interested in astronomy. As you can probably tell...
 </td>
 <td width="38%">
 
-<img width="736" height="736" alt="_" src="https://github.com/user-attachments/assets/f558d61b-267c-4765-bd8a-56289d85b898" />
+<img width="736" height="1308" alt="_ (2)" src="https://github.com/user-attachments/assets/75a1651b-55a6-4ba3-9ac3-f8a9167bda6c" />
+
 
 </td>
 </tr>
