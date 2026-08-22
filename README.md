@@ -1,5 +1,5 @@
 <div align="center">
-<img width="740" height="216" alt="banner (1)" src="https://github.com/user-attachments/assets/00a59fe1-66f6-49d3-a0fc-dc5afed04d34" />
+<img width=100% height=auto alt="banner (1)" src="https://github.com/user-attachments/assets/80f797fe-4836-408e-a229-2991f8014aa6" />
 <br/>
 
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
