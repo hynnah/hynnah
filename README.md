@@ -1,6 +1,6 @@
-<!--<img width="612" height="408" alt="moonsea" src="https://github.com/user-attachments/assets/e6d3ee1d-4681-4208-bbd0-9883a764a896" />
 
 
+<!--
 **hynnah/hynnah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Hannah Martinez"/>
+<img width="612" height="408" alt="moonsea" src="https://github.com/user-attachments/assets/e6d3ee1d-4681-4208-bbd0-9883a764a896" />
 
 <br/>
 
