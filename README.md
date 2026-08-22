@@ -16,7 +16,7 @@
 <!--
 <img align="right" width="250" alt="astronaut" src="https://github.com/user-attachments/assets/3ec5d9f5-2221-4603-9860-fcc2c2964d2c" />
 -->
-<img align="right" width="250" alt="Ascii_flower" src="https://github.com/user-attachments/assets/f510eede-41f9-4a73-b55a-dc976117493f" /> 
+<img align="right" height=100% alt="Ascii_flower" src="https://github.com/user-attachments/assets/f510eede-41f9-4a73-b55a-dc976117493f" /> 
 
 
 Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos currently looking for an OJT opportunity.
