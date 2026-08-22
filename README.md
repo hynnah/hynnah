@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
 <a href="https://github.com/hynnah"><img src="https://img.shields.io/badge/GITHUB-0B0B14?style=for-the-badge&logo=github&logoColor=F2F0E9" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0B0B14?style=for-the-badge&logo=linkedin&logoColor=F2F0E9" /></a>
-<!-- ^ swap the # for your LinkedIn URL once you have the badge link -->
+<a href="https://www.linkedin.com/in/hynnahzenitram"><img src="https://img.shields.io/badge/LINKEDIN-0B0B14?style=for-the-badge&logo=linkedin&logoColor=F2F0E9" /></a>
+
 
 </div>
 
