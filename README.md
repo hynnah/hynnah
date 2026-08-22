@@ -25,9 +25,9 @@ I have experience building both web and mobile applications, working across the 
 
 What am I currently up to? Well, I'm working on my portfolio!
 
-Outside of coding, I enjoy graphic design, so you'll probably catch me designing in Canva, sketching logos, or listening to music.
+Outside of coding, I enjoy graphic design, so you'll probably catch me designing in Canva, watching movies, or listening to music.
 
-Fun fact about me: I'm interested in astronomy. As you can probably tell...
+Fun fact about me: I like in astronomy. As you can probably tell...
 
 <br clear="right"/>
 
