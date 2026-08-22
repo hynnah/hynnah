@@ -1,25 +1,28 @@
 <div align="center">
-<img width=100% height=auto alt="banner (1)" src="https://github.com/user-attachments/assets/80f797fe-4836-408e-a229-2991f8014aa6" />
+<img width="4269" height="1772" alt="banner" src="https://github.com/user-attachments/assets/bcb0fa84-aac7-4e0a-a2e8-d0363a62fe1d" />
 <br/>
-
+**hynnah**
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
 <a href="https://github.com/hynnah"><img src="https://img.shields.io/badge/GITHUB-0B0B14?style=for-the-badge&logo=github&logoColor=F2F0E9" /></a>
 <a href="https://www.linkedin.com/in/hynnahzenitram"><img src="https://img.shields.io/badge/LINKEDIN-0B0B14?style=for-the-badge&logo=linkedin&logoColor=F2F0E9" /></a>
-
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-### ✦ the short version
+### ✦ about me
 
-I'm a third-year BSIT student at the University of San Carlos, currently hunting for an **OJT placement**. I like building the unglamorous middle layer of an app — the schema that holds up, the API that doesn't surprise you, the interface that gets out of the way. Half my brain is in backend logic, the other half is still the kid who liked drawing constellations, so I end up caring a little too much about spacing and color too.
+<table>
+<tr>
+<td width="38%">
+<img src="./assets/about_portrait.svg" width="100%" alt=""/>
+</td>
+<td valign="middle">
 
-- 🎓 BSIT, University of San Carlos — Class of 2027
-- 🩺 Currently building **CAREiosk**, a capstone health-screening kiosk system (SRS, use-case diagrams, ERD, tri-platform prototype)
-- 🌙 Based in Cebu, Philippines
-- 🐈‍⬛ Off-hours: concept art, logo & brand design, Canva, music
-- 📮 Open to OJT / internship opportunities — reach out below
+Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos, currently hunting for an **OJT placement**. I can build the backend side of things just fine — schemas, APIs, the whole plumbing — but if you give me a choice, I'll always gravitate toward the front end, tweaking spacing and colors until a page actually feels like something instead of just working. Right now I'm neck-deep in a capstone project (a health-screening kiosk system for our campus clinic), and outside of that I'm usually messing around in Canva or sketching logos for fun. Based in Cebu, always down to talk about a weird bug or a good color palette.
+
+</td>
+</tr>
+</table>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -33,25 +36,20 @@ I'm a third-year BSIT student at the University of San Carlos, currently hunting
 <img src="https://img.shields.io/badge/C%23-14142B?style=for-the-badge&logo=csharp&logoColor=C9A76A" />
 <img src="https://img.shields.io/badge/C-14142B?style=for-the-badge&logo=c&logoColor=C9A76A" />
 <img src="https://img.shields.io/badge/JavaScript-14142B?style=for-the-badge&logo=javascript&logoColor=C9A76A" />
-
-**web & interface**
-
 <img src="https://img.shields.io/badge/HTML5-14142B?style=for-the-badge&logo=html5&logoColor=9B95C9" />
 <img src="https://img.shields.io/badge/CSS3-14142B?style=for-the-badge&logo=css3&logoColor=9B95C9" />
 <img src="https://img.shields.io/badge/React-14142B?style=for-the-badge&logo=react&logoColor=9B95C9" />
 <img src="https://img.shields.io/badge/.NET%20MAUI-14142B?style=for-the-badge&logo=dotnet&logoColor=9B95C9" />
 <img src="https://img.shields.io/badge/Canva-14142B?style=for-the-badge&logo=canva&logoColor=9B95C9" />
-
-**backend & data**
-
 <img src="https://img.shields.io/badge/PHP-14142B?style=for-the-badge&logo=php&logoColor=F2F0E9" />
 <img src="https://img.shields.io/badge/FastAPI-14142B?style=for-the-badge&logo=fastapi&logoColor=F2F0E9" />
 <img src="https://img.shields.io/badge/MySQL-14142B?style=for-the-badge&logo=mysql&logoColor=F2F0E9" />
 <img src="https://img.shields.io/badge/Supabase-14142B?style=for-the-badge&logo=supabase&logoColor=F2F0E9" />
 <img src="https://img.shields.io/badge/Git-14142B?style=for-the-badge&logo=git&logoColor=F2F0E9" />
+<img src="https://img.shields.io/badge/Claude-14142B?style=for-the-badge&logo=claude&logoColor=C9A76A" />
+<img src="https://img.shields.io/badge/ChatGPT-14142B?style=for-the-badge&logo=openai&logoColor=C9A76A" />
+<img src="https://img.shields.io/badge/Gemini-14142B?style=for-the-badge&logo=googlegemini&logoColor=C9A76A" />
 
-**test**
-<hr width="100%" size="1" color="#2A2A40" /> <img src="https://img.shields.io/badge/Java-14142B?style=for-the-badge&logo=openjdk&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/C%23-14142B?style=for-the-badge&logo=csharp&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/C-14142B?style=for-the-badge&logo=c&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/JavaScript-14142B?style=for-the-badge&logo=javascript&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/React-14142B?style=for-the-badge&logo=react&logoColor=9B95C9" /> <img src="https://img.shields.io/badge/PHP-14142B?style=for-the-badge&logo=php&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/FastAPI-14142B?style=for-the-badge&logo=fastapi&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/MySQL-14142B?style=for-the-badge&logo=mysql&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/Supabase-14142B?style=for-the-badge&logo=supabase&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/.NET%20MAUI-14142B?style=for-the-badge&logo=dotnet&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/Git-14142B?style=for-the-badge&logo=git&logoColor=F2F0E9" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -111,6 +109,8 @@ Solo-built classroom web app combining shared calendars, task delegation, and pe
 
 <img src="https://streak-stats.demolab.com/?user=hynnah&hide_border=true&background=0B0B14&ring=C9A76A&fire=C9A76A&currStreakLabel=F2F0E9&sideNums=F2F0E9&currStreakNum=F2F0E9&sideLabels=9B95C9&dates=8B879E" />
 </div>
+
+<sub>if these cards show a broken/error image, it's the shared demo server being rate-limited, not this file — see the note below on deploying your own copy.</sub>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
