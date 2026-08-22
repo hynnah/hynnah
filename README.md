@@ -14,9 +14,7 @@
 
 ### ✦ about me
 
-<table>
-<tr>
-<td valign="middle">
+<img align="right" width="340" alt="_ (2)" src="https://github.com/user-attachments/assets/75a1651b-55a6-4ba3-9ac3-f8a9167bda6c" />
 
 Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos currently looking for an OJT opportunity.
 
@@ -28,15 +26,7 @@ Outside of coding, I enjoy graphic design, so you'll probably catch me designing
 
 Fun fact about me: I'm interested in astronomy. As you can probably tell...
 
-</td>
-<td width="38%">
-
-<img width="736" height="1308" alt="_ (2)" src="https://github.com/user-attachments/assets/75a1651b-55a6-4ba3-9ac3-f8a9167bda6c" />
-
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
