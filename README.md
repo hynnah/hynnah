@@ -67,6 +67,8 @@ I'm a third-year BSIT student at the University of San Carlos, currently hunting
 <img src="https://img.shields.io/badge/Supabase-14142B?style=for-the-badge&logo=supabase&logoColor=F2F0E9" />
 <img src="https://img.shields.io/badge/Git-14142B?style=for-the-badge&logo=git&logoColor=F2F0E9" />
 
+**test**
+<hr width="100%" size="1" color="#2A2A40" /> <img src="https://img.shields.io/badge/Java-14142B?style=for-the-badge&logo=openjdk&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/C%23-14142B?style=for-the-badge&logo=csharp&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/C-14142B?style=for-the-badge&logo=c&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/JavaScript-14142B?style=for-the-badge&logo=javascript&logoColor=C9A76A" /> <img src="https://img.shields.io/badge/React-14142B?style=for-the-badge&logo=react&logoColor=9B95C9" /> <img src="https://img.shields.io/badge/PHP-14142B?style=for-the-badge&logo=php&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/FastAPI-14142B?style=for-the-badge&logo=fastapi&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/MySQL-14142B?style=for-the-badge&logo=mysql&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/Supabase-14142B?style=for-the-badge&logo=supabase&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/.NET%20MAUI-14142B?style=for-the-badge&logo=dotnet&logoColor=F2F0E9" /> <img src="https://img.shields.io/badge/Git-14142B?style=for-the-badge&logo=git&logoColor=F2F0E9" />
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
