@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img width="612" height="408" alt="moonsea" src="https://github.com/user-attachments/assets/e6d3ee1d-4681-4208-bbd0-9883a764a896" />
-
+<img width="4269" height="1772" alt="banner" src="https://github.com/user-attachments/assets/bcb0fa84-aac7-4e0a-a2e8-d0363a62fe1d" />
 <br/>
 
 <a href="mailto:hannahmarie.martinez.12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0B14?style=for-the-badge&logo=gmail&logoColor=F2F0E9" /></a>
