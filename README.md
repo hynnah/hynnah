@@ -23,7 +23,8 @@ Hi! I'm **Hannah**, a third-year BSIT student at the University of San Carlos cu
 
 I have experience building both web and mobile applications, working across the front end and backend with databases and APIs. I especially enjoy front-end development and UI design, where I can play around with layouts, interactions, and the little details that make a website feel right.
 
-What am I currently up to? Well, I'm working on my portfolio!
+What am I currently up to? Well, I'm working on my [portfolio!](https://hannahmartinez-portfolio.vercel.app/)
+Use code with caution.Both options do the exact same thing. Would you like help adding any other sections or custom badges to your README?
 
 Outside of coding, I enjoy graphic design, so you'll probably catch me designing in Canva, watching movies, or listening to music.
 
